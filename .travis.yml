@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 language: java
 
 # Our Git tests require information from early branches/versions so we need to make sure Travis gets everything when cloning
