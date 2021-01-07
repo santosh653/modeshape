@@ -26,7 +26,7 @@ cache:
 
 # We use JDK 8
 jdk:
-  - oraclejdk8
+  - oraclejdk11
   
 env:
   - MAVEN_OPTS="-Xms1524M -Xmx1524M"
